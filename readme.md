@@ -17,11 +17,14 @@ Headphone amplifier with the following features:
 
 Layout:<br/>
 [x] Verify component placement<br/>
-[ ] Routing!<br/>
+[x] Routing!<br/>
+[ ] Clean up silkscreen<br/>
+[ ] Adjudicate DRC issues
 
 Schematic:<br/>
-[x] Clean up placement<br/>
+[ ] Clean up placement - make everything fit on the page<br/>
 [x] Part selection for capacitors, verify voltages on schematic<br/>
+[ ] Redo capacitor voltage labels<br/>
 [x] Reduce footprint sizes where possible, mainly capacitors<br/>
 [x] Pick proper connectors for the front panel stuff<br/>
 [ ] Decide on header stack height for the York and ESP32<br/>
@@ -34,3 +37,8 @@ CAD<br/>
 [x] Import board step file<br/>
 [x] Figure out rear mounting<br/>
 [ ] Layout front/rear panels <br/>
+
+Sigma Studio<br/>
+[x] ID reference project
+[ ] Settle on sample rates and clock scalars
+[ ] Port blocks from prior preamp
