@@ -41,6 +41,6 @@ CAD<br/>
 [ ] Layout front/rear panels <br/>
 
 Sigma Studio<br/>
-[x] ID reference project
-[ ] Settle on sample rates and clock scalars
-[ ] Port blocks from prior preamp
+[x] ID reference project<br/>
+[ ] Settle on sample rates and clock scalars<br/>
+[ ] Port blocks from prior preamp<br/>
