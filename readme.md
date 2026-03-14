@@ -20,13 +20,13 @@ Layout:<br/>
 [x] Routing!<br/>
 [ ] Clean up silkscreen<br/>
 [ ] Adjudicate DRC issues<br/>
-[ ] Move some of the power pours to second power layer<br/>
+[X] Move some of the power pours to second power layer<br/>
 [ ] Clean up fab layer<br/>
 
 Schematic:<br/>
-[ ] Clean up placement - make everything fit on the page<br/>
+[X] Clean up placement - make everything fit on the page<br/>
 [x] Part selection for capacitors, verify voltages on schematic<br/>
-[ ] Redo capacitor voltage labels<br/>
+[X] Redo capacitor voltage labels<br/>
 [x] Reduce footprint sizes where possible, mainly capacitors<br/>
 [x] Pick proper connectors for the front panel stuff<br/>
 [ ] Decide on header stack height for the York and ESP32<br/>
