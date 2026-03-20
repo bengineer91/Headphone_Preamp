@@ -19,7 +19,7 @@ Layout:<br/>
 [x] Verify component placement<br/>
 [x] Routing!<br/>
 [ ] Clean up silkscreen<br/>
-[ ] Adjudicate DRC issues<br/>
+[X] Adjudicate DRC issues<br/>
 [X] Move some of the power pours to second power layer<br/>
 [ ] Clean up fab layer<br/>
 
