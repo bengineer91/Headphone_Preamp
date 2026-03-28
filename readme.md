@@ -18,10 +18,10 @@ Headphone amplifier with the following features:
 Layout:<br/>
 [x] Verify component placement<br/>
 [x] Routing!<br/>
-[ ] Clean up silkscreen<br/>
+[x] Clean up silkscreen<br/>
 [X] Adjudicate DRC issues<br/>
 [X] Move some of the power pours to second power layer<br/>
-[ ] Clean up fab layer<br/>
+[x] Clean up fab layer<br/>
 
 Schematic:<br/>
 [X] Clean up placement - make everything fit on the page<br/>
